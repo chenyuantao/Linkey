@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/landing",
+      "destination": "https://linkey-landing.vercel.app/landing"
+    }
+  ]
+}
