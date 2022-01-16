@@ -1,12 +1,15 @@
-# Linkey Project
+# Linkey
+
 
 https://linkeyweb.vercel.app/
 
-The space you talk with friends and team members. 🙌
+Linkey is the space you talk with friends and team members. 🙌
+
 
 Free, Focused, Efficient And Creative. 💡
 
-### How To Develop
+### How to develop
+
 
 ```bash
 npm install
@@ -25,3 +28,7 @@ You can push code to main to trigger Vercel run the deploy workflow.
 ```bash
 git push origin main
 ```
+
+### Datebase server and websocket server
+
+// TODO
